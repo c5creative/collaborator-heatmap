@@ -7,3 +7,6 @@ exported to CSV, and then converted to JSON array via http://www.convertcsv.com/
 
 ## Usage
 Replace the data with yours, and tweak the underlying map parameters in heatmap.html.
+
+## Example output
+![collaborator map image](https://raw.githubusercontent.com/c5creative/collaborator-heatmap/master/images/collaborator-heatmap.png)
